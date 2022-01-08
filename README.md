@@ -1,5 +1,4 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=000000&size=55&center=true&vCenter=true&width=900&height=53&lines=Hi!!+I'm+Donggun)](https://git.io/typing-svg)
 <!--
 **Ldonggun/Ldonggun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
